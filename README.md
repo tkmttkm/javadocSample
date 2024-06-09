@@ -1,0 +1,2 @@
+# javadocSample
+javadocサンプル用
